@@ -1,0 +1,27 @@
+# Ignore specific file
+reservations.json
+
+# Python cache files and logs
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+*.swp
+*.swo
+*.swn
+*.pid
+*.bak
+*.bak.*
+*.db.sqlite3
+*.log.*
+*.out
+*.err
+*.dump
+*.retry
+
+# Other common development files
+.DS_Store
+*.bak
+*.swp
+*.swo
